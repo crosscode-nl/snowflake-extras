@@ -1,4 +1,4 @@
-module github.com/crosscode-nl/snowflake/example
+module github.com/crosscode-nl/snowflake-extras
 
 go 1.19
 
