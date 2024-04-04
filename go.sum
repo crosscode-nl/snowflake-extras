@@ -6,6 +6,8 @@ github.com/crosscode-nl/snowflake v0.4.0 h1:qPJ0bjB/l8TVjOJHygvKb7jbVZ6Vf/z+UOMP
 github.com/crosscode-nl/snowflake v0.4.0/go.mod h1:OpvgI00UlsQoT8bxZiRPwjx8ZCqdFLE+3Ada+uuMMak=
 github.com/crosscode-nl/snowflake v0.5.0 h1:vZn61wn4I0q6ygPmFCPRY1BoHavn/Mx1bWLsQD2La30=
 github.com/crosscode-nl/snowflake v0.5.0/go.mod h1:OpvgI00UlsQoT8bxZiRPwjx8ZCqdFLE+3Ada+uuMMak=
+github.com/crosscode-nl/snowflake v1.0.0 h1:c30daiwKqX8MN9C4EWtpsKU9xanx8sMF2a+SHvuyYpo=
+github.com/crosscode-nl/snowflake v1.0.0/go.mod h1:OpvgI00UlsQoT8bxZiRPwjx8ZCqdFLE+3Ada+uuMMak=
 github.com/godruoyi/go-snowflake v0.0.2 h1:rN9imTkrUJ5ZjuwTOi7kTGQFEZSUI3pwPMzAb7uitk4=
 github.com/godruoyi/go-snowflake v0.0.2/go.mod h1:6JXMZzmleLpSK9pYpg4LXTcAz54mdYXTeXUvVks17+4=
 github.com/influxdata/influxdb v1.11.5 h1:+em5VOl6lhAZubXj5o6SobCwvrRs3XDlBx/MUI4schI=
